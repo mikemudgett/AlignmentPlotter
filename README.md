@@ -5,4 +5,4 @@ This is a simple script for running a BLAST alignment on local files and outputt
 I made this mainly to show what different DNA sequences were inserted into the genome during "failed" genome editing events. The query sequence is a chunk of long-read whole-genome sequencing data and the subjects are various pieces of DNA that were introduced during the gene editing process. I think this is a cleaner approach than what I had been previously doing, which was drawing out the pieces by hand in powerpoint.
 
 Here are example outputs I used in (link to paper once I publish it):
-![Image](/Files/AlignmentPlotter1.png)
+<img src="/Files/AlignmentPlotter1.png"  width="60%" height="30%">
